@@ -1,7 +1,7 @@
 
 public class bucky2 {
 
-	public static void main(String[] args) {
+	public static void main1(String[] args) {
 				  //01234567890123456789012
 //		String s = "buckyrobertsbuckyrobers";
 //		
