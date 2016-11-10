@@ -1,4 +1,6 @@
 # Intermediate-Java
+## https://www.youtube.com/playlist?list=PL27BCE863B6A864E3
+
 Intermediate Java Tutorial - 1 - Common String Methods
 by thenewboston
 5:34
