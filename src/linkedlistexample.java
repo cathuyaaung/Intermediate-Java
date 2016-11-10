@@ -3,7 +3,7 @@ import java.util.*;
 
 public class linkedlistexample {
 
-	public static void main(String[] args) {
+	public static void main1(String[] args) {
 		String[] things = {"apples", "noobs", "pwnge", "bacon", "goATS"};
 		List<String> list1 = new LinkedList<String>();		
 		for (String x : things) {
