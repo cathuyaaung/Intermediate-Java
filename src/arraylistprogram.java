@@ -4,7 +4,7 @@ import java.util.Iterator;
 import java.util.List;
 
 public class arraylistprogram {
-	public static void main(String[] args) {
+	public static void main1(String[] args) {
 
 		String[] a = {"eggs", "lasers", "hats", "pants", "socks", "pie"};	
 		List<String> l1 = new ArrayList<String>();		
