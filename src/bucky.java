@@ -1,7 +1,7 @@
 
 public class bucky {
 
-	public static void main(String[] args) {
+	public static void main1(String[] args) {
 		
 		String[] words = {"funk", "chunk", "furry", "beaconator"};
 		
